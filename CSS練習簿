@@ -1,0 +1,19 @@
+p:hover{
+    background-color: whitesmoke;
+}
+.person{
+    color: rgb(44, 6, 79);
+}
+
+.country{
+    background-color: rgb(224, 205, 242); 
+}
+.backgroundgrey, #aaa{
+    background-color: rgb(86, 83, 83); color: rgb(227, 223, 218);
+}
+*{
+    background-color: rgb(243, 194, 200);
+}
+[href]{
+    background-color: cadetblue;
+}
